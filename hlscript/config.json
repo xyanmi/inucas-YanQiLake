@@ -1,0 +1,24 @@
+{
+    "user-info":{
+        "login-mod": "1",
+
+        "cookies": {
+            "SESSION":""
+        },
+
+        "userinfo":{
+            "userName":"xxx",
+            "pwd":"xxx"
+          }
+        
+    },
+
+    "limit-time": {
+        "year":"2024",
+        "month":"3",
+        "day":"29",
+        "hour":"18",
+        "min":"0",
+        "second":"0"
+    }
+}
