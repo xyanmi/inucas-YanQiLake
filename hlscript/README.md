@@ -1,5 +1,6 @@
 # 中国科学院大学人文讲座预约脚本
-search-keywords: 国科大人文讲座, 国科大，ucas人文讲座，人文讲座，ucas
+search-keywords: 国科大人文讲座, 国科大，ucas人文讲座，人文讲座，ucas、
+
 date: 2024/04/02
 
 updating: c/c++ code for this function to improve the speed while making an appointment.
