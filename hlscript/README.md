@@ -1,5 +1,5 @@
 # 中国科学院大学人文讲座预约脚本
-
+search-keywords: 国科大人文讲座, 国科大，ucas人文讲座，人文讲座，ucas
 date: 2024/04/02
 
 updating: c/c++ code for this function to improve the speed while making an appointment.
@@ -14,7 +14,7 @@ updating: c/c++ code for this function to improve the speed while making an appo
 
 首先你需要得到自己密码的RSA加密版本，SEP在登录的过程中向服务器端传的密码是进行RSA加密后的版本，而本人比较懒，没有去饶过他或者写个程序帮我们直接得到，因为这个版本非常容易就可以得到。
 
-1. 进入sep的官方网站https://sep.ucas.ac.cn/，暂时不要登录
+1. 进入sep的官方网站*https://sep.ucas.ac.cn/*，暂时不要登录
 2. 右键—>检查—>Network
 3. 点击登录，这个时候会有很多很多条目出来
 4. 找到name为slogin的条目（一般在最上面），点击它，选择Payload，里面有一个pwd，后面就是RSA加密版本（只要你密码不错）。
